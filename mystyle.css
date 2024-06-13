@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+  }
+
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  p{ background-color: aquamarine;
+   text-emphasis-color: brown;
+   color: blue;}
